@@ -1,6 +1,6 @@
 # GoTask
 
-In this assignment, you have to make a billing machine for the XYZ Cafe. The machine consist of a group of buttons each representing a unique dish. There will also be a different set of buttons representing the quantity. To place an order, you will have to use these buttons in combination. For example, to order 4 cups of coffee, you will have to press "4 C". The machine will generate a copy of the bill for the customer and also add the amount of the order in " Total earning". So, at the end of the day, the owner can see how much he made in sales. The buttons and their corresponding dishes are mentioned below:
+In this assignment, you have to make a billing machine for the XYZ Cafe. The machine consist of a group of buttons each representing a unique dish. There will also be a different set of buttons representing the quantity. To place an order, you will have to use these buttons in combination. For example, to order 4 cups of coffee, you will have to press "4 C". The machine will generate a copy of the bill for the customer and also add the amount of the order in " Total earning". So, at the end of the day, the owner can see how much he made in sales. The buttons and their corresponding dishes are mentioned below:--
 
 1.	C: coffee, 40rs
 2.	D: dosa, 80 rs
